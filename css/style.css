@@ -106,7 +106,10 @@ body {
   clear: both;
   display: table; }
 
-/*FORMA*/
+/*header*/
+.other_page_links{
+  display: inline-block;
+}
 .header__form {
   background-color: #323131;
   clear: left; }
